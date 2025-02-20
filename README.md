@@ -54,4 +54,4 @@ This project uses **crewAI**, an open-source library designed to create and mana
 
 ## License
 
-This repository is for educational purposes and is not intended for commercial use. All content in this repository is licensed under the [MIT License](LICENSE), except for any third-party libraries or dependencies used (see `requirements.txt` for details).
+This repository is for educational purposes and is not intended for commercial use. All content in this repository is licensed under the [MIT License](LICENSE), except for any third-party libraries or dependencies used.
